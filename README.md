@@ -25,3 +25,7 @@ protected function schedule(Schedule $schedule): void
     $schedule->command('sitemap:generate')->daily();
 }
 ```
+
+## Credits
+
+- [Marks Bogdanovs](https://www.ezitisitis.com)
