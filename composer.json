@@ -15,7 +15,9 @@
     "authors": [
         {
             "name": "Marks Bogdanovs",
-            "email": "mail@ezitisitis.com"
+            "email": "mail@ezitisitis.com",
+            "homepage": "https://www.ezitisitis.com",
+            "role": "maintainer"
         }
     ],
     "extra": {
@@ -24,5 +26,16 @@
               "Ezitisitis\\LaravelSitemapGenerator\\LaravelSitemapGeneratorServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/ezitisitis"
+        },
+        {
+            "type": "buy_me_a_coffee",
+            "url": "https://buymeacoffee.com/ezitisitis"
+        }
+    ]
 }
